@@ -62,7 +62,7 @@ body {
 @media screen and (max-width: 990px) {
   .nav-bar {
     position: absolute;
-    top: 52px;
+    top: 50px;
     left: -100%;
     background-color: rgba(3, 106, 37, 0.786);
     display: flex;
