@@ -1,0 +1,9 @@
+.cur{cursor: pointer;}
+.trail-btn{text-transform: uppercase;color: white; padding:5px 14px;border: 1px solid rgb(255, 255, 255);border-radius: 5px;transition: all .2s ease-in;}
+.trail-btn:hover{color:black;transition:all .2s ease-in;}
+a{text-decoration: none;padding:5px 14px;color: white;transition: all .2s ease-in;}
+a:hover{color: blue;}
+.dis{display: none;}
+.hide{display: none;}
+.sn{height: 30px;}
+.ul{list-style-type: none;padding: 0;margin: 0;}
